@@ -9,7 +9,4 @@ public class Student {
     int age;
     boolean onProbation;
 
-
-
-
 }

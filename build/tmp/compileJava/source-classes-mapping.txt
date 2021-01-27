@@ -4,9 +4,9 @@ Demo_inheritance/ItalianChef.java
  Demo_inheritance.ItalianChef
 Demo_inheritance/ChinessChef.java
  Demo_inheritance.ChinessChef
+Demo_inheritance/Chef.java
+ Demo_inheritance.Chef
 Demo_Objects/Student.java
  Demo_Objects.Student
 Demo_Objects/App.java
  Demo_Objects.App
-Demo_inheritance/Chef.java
- Demo_inheritance.Chef
